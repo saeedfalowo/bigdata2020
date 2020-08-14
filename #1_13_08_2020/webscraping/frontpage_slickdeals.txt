@@ -1,0 +1,275 @@
+
+Name: b''
+Price: 
+Shipping: 
+Likes: 
+
+Name: b'32" GIGABYTE G32QC Curved 2560x1440 165Hz FreeSync VA Monitor &plus &dollar15 Newegg GC'
+Price: $370
+Shipping: + Free Shipping
+Likes: 18
+
+Name: b'Samsung Galaxy Buds True Wireless Earbuds &lparWhite&comma Open Box&rpar'
+Price: $60
+Shipping: + Free Shipping
+Likes: 17
+
+Name: b'Chase Sapphire Preferred Card&colon Spend &dollar4K on Purchases & Earn'
+Price: 60,000
+Shipping: (Within 1st 3-Months)
+Likes: 310
+
+Name: b'CyberPower SE450G 450VA 8-Outlet Battery Backup UPS'
+Price: $30
+Shipping: + Free S&H
+Likes: 16
+
+Name: b'Rayovac 100 Lumen LED Headlamp Flashlight'
+Price: $6.90
+Shipping: 
+Likes: 16
+
+Name: b'Chase Freedom Unlimited&colon Earn'
+Price: $200
+Shipping: w/ $500 Spent in First 3-Months
+Likes: 81
+
+Name: b'CyberPower SX650G 8-Outlet 650VA Standby UPS'
+Price: $40
+Shipping: + Free Shipping
+Likes: 14
+
+Name: b'Amazing Origami Kit&colon Traditional Japanese Folding Papers & Projects &lparPaperback&rpar'
+Price: $7.60
+Shipping: 
+Likes: 32
+
+Name: b'Costco Anywhere Visa Card by Citi'
+Price: Cash
+Shipping: 
+Likes: 488
+
+Name: b'Dragon Ball Complete Box Set&colon Volumes 1-16 &lparPaperback Manga Books&rpar'
+Price: $78
+Shipping: + Free Shipping
+Likes: 26
+
+Name: b'9-Piece Madesmart Value Interlocking Organizer Bin Pack &lparWhite&rpar'
+Price: $7.90
+Shipping: 
+Likes: 18
+
+Name: b'The Literature Book&colon Big Ideas Simply Explained &lpareBook&rpar'
+Price: $2
+Shipping: 
+Likes: 22
+
+Name: b'5-Count 1&period17-Oz Fiber One Protein Chewy Bars &lparCaramel Nut&rpar'
+Price: $2.35
+Shipping: w/ Subscribe & Save
+Likes: 18
+
+Name: b'Bella Pro Series Flavor Infusion 12-Cup Coffee Maker &lparStainless Steel&rpar'
+Price: $30
+Shipping: + Free Shipping
+Likes: 21
+
+Name: b'16-Oz AXE 2 in 1 Body Wash and Shampoo for Men &lparSport Blast&rpar'
+Price: 4
+Shipping: w/ Subscribe & Save
+Likes: 42
+
+Name: b'Halo&colon The Master Chief Collection &lparPC Digital Download&rpar'
+Price: $28
+Shipping: 
+Likes: 32
+
+Name: b'BioBidet Slim Zero Non-Electric Bidet Seat w&sol Nightlight &lparElongated&rpar'
+Price: $70
+Shipping: + Free S/H for Prime Members
+Likes: 25
+
+Name: b'5-Oz Blue Diamond Gourmet Almonds &lparVarious Flavors&rpar'
+Price: $2.75
+Shipping: w/ Subscribe & Save
+Likes: 42
+
+Name: b'42" Westinghouse Lighting Richboro SE Reversible Five-Blade Indoor Ceiling Fan'
+Price: $60
+Shipping: & More + Free Shipping
+Likes: 21
+
+Name: b'Revlon Multipurpose Slant Tip Stainless Steel Tweezer'
+Price: $2.65
+Shipping: w/ Subscribe & Save
+Likes: 28
+
+Name: b'22-Lbs Wellness Core Lamb Recipe Dry Dog Food &plus 8oz Wellness Core Dog Treats'
+Price: $30
+Shipping: w/ Autoship + Free S/H on $49+
+Likes: 23
+
+Name: b"Fossil&colon Extra 40&percnt Off Sale&colon Men's Ethan Leather Trifold Wallet"
+Price: $11.50
+Shipping: & More + Free S/H
+Likes: 38
+
+Name: b'TaoTronics BH090 Over-Ear Active Noise Cancelling Bluetooth Headphones'
+Price: $40
+Shipping: + Free Shipping
+Likes: 28
+
+Name: b'MSI PRO B550M PRO-VDH WIFI AMD AM4 Micro ATX Motherboard'
+Price: $110
+Shipping: + Free Shipping
+Likes: 32
+
+Name: b'Google Fi&colon Moto G Stylus from &dollar219 or Moto G Power &lparActivation Req&period&rpar'
+Price: from
+Shipping: + Free Shipping
+Likes: 44
+
+Name: b'Ray-Ban&comma Oakley & Costa Del Mar Sunglasses &lparvarious styles&rpar'
+Price: from
+Shipping: + Free S&H w/ Amazon Prime
+Likes: 44
+
+Name: b'Custom 18" x 24" Canvas Photo Print &lparIncludes Wrap&comma Backing&comma Hardware&rpar'
+Price: $22
+Shipping: 
+Likes: 62
+
+Name: b'500-Count 3"x5" Tru Red Index Cards &lparLined&comma White&rpar'
+Price: $2.40
+Shipping: + Free Shipping
+Likes: 32
+
+Name: b'Hand of Fate 2 &lparNintendo Switch Digital Download&rpar'
+Price: $9.90
+Shipping: 
+Likes: 31
+
+Name: b'1-Year AMC Stubs Premiere Membership for New or Existing Customers'
+Price: $5
+Shipping: 
+Likes: 83
+
+Name: b'10-Pack of 15-Count Extra Peppermint Sugarfree Gum'
+Price: $6.25
+Shipping: w/ S&S
+Likes: 45
+
+Name: b'AmazonBasics Waterproof Winter Plus Performance Gloves &lparBlack&comma XL&rpar'
+Price: $6.05
+Shipping: 
+Likes: 36
+
+Name: b'Torchstar 12-Pack 6" 12W Dimmable Ultra-Thin Recessed LED Ceiling Light'
+Price: $78.60
+Shipping: + Free Shipping
+Likes: 34
+
+Name: b'Epic Games&colon The Alto Collection or Remnant&colon From the Ashes &lparPC Digital Download&rpar'
+Price: Free
+Shipping: 
+Likes: 238
+
+Name: b'Pei Wei Asian Diner&colon Small or Regular Entree Online Orders'
+Price: B1G1
+Shipping: (Exclusions Apply, Valid through 8/13/20)
+Likes: 70
+
+Name: b'Dyson V10 Absolute Cordless Vacuum Cleaner &lparRefurbished&rpar'
+Price: $290
+Shipping: + Free Shipping
+Likes: 42
+
+Name: b"Pokemon Trading Card Game&colon Collector's Tin Chest &lparSpring 2020&rpar"
+Price: $15
+Shipping: + Free Curbside Pickup
+Likes: 34
+
+Name: b"adidas Men's Adizero Boston 8 Running Shoes &lparblue&solwhite&rpar"
+Price: $42.50
+Shipping: + Free Shipping
+Likes: 43
+
+Name: b'A Total War Saga&colon Troy &lparPC Digital Download&rpar'
+Price: Free
+Shipping: (Valid 8/13 Only)
+Likes: 493
+
+Name: b'Digital 4K UHD Movies&colon Now You See Me&comma Sicario&comma Hacksaw Ridge&comma La La Land'
+Price: $5
+Shipping: & Many More
+Likes: 32
+
+Name: b'Giani Bernini Cultured Freshwater Pearl Drop Earrings &lparVarious Styles&rpar'
+Price: $9.60
+Shipping: + Free S/H on $25+ & More
+Likes: 29
+
+Name: b'Amazon&colon Spend &dollar100&plus on Select Baby Products & Get'
+Price: $20
+Shipping: + Free S/H
+Likes: 38
+
+Name: b'1Mii Bluetooth 5&period0 Transmitter for TV to Wireless Headphone&solSpeaker'
+Price: $24.80
+Shipping: + Free S/H
+Likes: 44
+
+Name: b'10-Pack Ozark Trail Aluminum LED Flashlight Set w&sol 30x AAA Batteries'
+Price: $6
+Shipping: + Free S/H on $35+
+Likes: 41
+
+Name: b'Patagonia Summer Sale&colon Apparel&comma Packs & Gear for the Family'
+Price: Up
+Shipping: + Free S/H on $49+
+Likes: 87
+
+Name: b'Bodum ePEBO Siphon Coffee Maker &lpar8-Cup&sol1 L Capacity&rpar'
+Price: $85
+Shipping: + Free S/H
+Likes: 33
+
+Name: b"New Sam's Club Membership &plus &dollar45 Sam's Club Gift Card"
+Price: $45
+Shipping: 
+Likes: 78
+
+Name: b'Anker PowerPort III Nano 18W PIQ 3&period0 Compact USB C Fast Charger Adapter'
+Price: $12
+Shipping: 
+Likes: 33
+
+Name: b'18-Oz Aveeno Daily Moisturizing Body Wash for Dry Skin'
+Price: 2
+Shipping: w/ Subscribe & Save
+Likes: 33
+
+Name: b'Marathon&colon Durandal &lparXbox One&solXbox 360 Digital Download&rpar'
+Price: $5
+Shipping: 
+Likes: 30
+
+Name: b'Maneater DLC&colon Tiger Skin Evolution &lparPS4 or Xbox One Digital Download&rpar'
+Price: Free
+Shipping: 
+Likes: 78
+
+Name: b'TP-Link Kasa HS200 Smart Wi-Fi Light Switch'
+Price: $15
+Shipping: 
+Likes: 53
+
+Name: 
+Price: 
+Shipping: 
+Likes: 53
+
+Name: b''
+Price: 
+Shipping: 
+Likes: 
