@@ -1,0 +1,9 @@
+from kafka import KafkaProducer
+from time import sleep
+import json
+
+# it takes JSON serializer by default
+producer = KafkaProducer(bootstrap_servers=['localhost:9093'],api_version=(0,10,1))
+
+# Topic name is zoo-lion
+producer.send('zoo-lion',b'Yo, where my keeper at?')
