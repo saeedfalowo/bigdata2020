@@ -1,0 +1,3 @@
+# Run Flume
+cd $FLUME_HOME
+bin/./flume-ng agent -n TwitterAgent -f conf/twitter_stream.conf

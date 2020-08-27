@@ -1,0 +1,2 @@
+sqoop import --connect jdbc:mysql://localhost/employee_db --table EMP --username saeed_mysql-P --target-dir ~/Employee_table -m 1
+sqoop import --connect jdbc:mysql://localhost/employee_db --table DEP --username saeed_mysql-P --target-dir ~/Department_table -m 1
