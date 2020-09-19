@@ -1,0 +1,68 @@
+# Create hive table
+
+hive
+CREATE DATABASE employee_db;
+USE employee_db;
+
+CREATE EXTERNAL TABLE IF NOT EXIST mock_data (
+	id INT, First_Name STRING, Last_Name STRING, Email STRING, Gender STRING) 
+	COMMENT 'Some Names'
+	ROW FORMAT DELIMITED
+	FIELDS TERMINATED BY ','
+	STORED AS TEXTFILE
+	LOCATION '/home/maria_dev/program_files/Task8/'
+	TBLPROPERTIES ("skip.header.line.count"="1");
+
+# Put import the csv data into your table
+LOAD DATA LOCAL INPATH '/home/maria_dev/program_files/Task8/MOCK_DATA.csv' OVERWRITE INTO TABLE mock_data;
+# Exit from hive
+exit
+
+# Create hbase table to store the hive table data
+hbase shell
+CREATE 'mock_data','employee_details'
+# Exit from hbase
+exit
+
+
+# Create staging table that will link to the hbase table
+hive
+USE employee_db;
+
+CREATE EXTERNAL TABLE IF NOT EXISTS hive_hbase_mock_data (id INT, First_Name STRING, Last_Name STRING, Email STRING, Gender STRING)
+	STORED BY 'org.apache.hadoop.hive.hbase.HBaseStorageHandler'
+	WITH SERDEPROPERTIES("hbase.columns.mapping" = ":key,employee_details:First_Name,employee_details:Last_Name,employee_details:Email,employee_details:Gender")
+	TBLPROPERTIES("hbase.table.name" = "mock_data");
+
+INSERT INTO hive_hbase_mock_data SELECT * FROM mock_data;
+
+# View the newly populated staging table
+SELECT * FROM hive_hbase_mock_data;
+# Exit from hive
+exit
+
+
+# View the connected hbase table data
+hbase shell
+scan 'mock_data'
+# Exit from hbase
+exit
+
+
+# Check updating the hive_hbase_mock_data will update the hbase table
+hive
+USE employee_db;
+INSERT INTO hive_hbase_mock_data VALUES(21,'F_name','L_name','f_name.l_name@appexperts.me.uk','my_gender');
+# 21 because my data already has 20 data rows
+
+# View the newly added row
+SELECT * FROM hive_hbase_mock_data;
+# Exit from hive
+exit
+
+
+# View the updated connected hbase table data
+hbase shell
+scan 'mock_data'
+# Exit from hbase
+exit
